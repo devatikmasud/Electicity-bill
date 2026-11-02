@@ -1,0 +1,22 @@
+*{
+	margin: 0 auto;
+	padding: 0;
+	text-decoration: none;
+	cursor: pointer;
+
+}
+#page-wrap{
+	background: white;
+	border: 1px solid blueviolet;
+	border-radius: 8px;
+	width: 400px;
+	height: 420px;
+	text-align: center;
+	padding-top: 20px;
+	margin-top: 80px;
+}
+#coll{
+
+	padding-top: 30px;
+
+}
